@@ -1,6 +1,7 @@
 # Vibe Board MCP (ve-vibe-board)
 
 [![MCP server on Glama](https://glama.ai/mcp/servers/HuntsDesk/ve-vibe-board/badges/card.svg)](https://glama.ai/mcp/servers/HuntsDesk/ve-vibe-board) [![Glama Score](https://glama.ai/mcp/servers/HuntsDesk/ve-vibe-board/badges/score.svg)](https://glama.ai/mcp/servers/HuntsDesk/ve-vibe-board) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Node](https://img.shields.io/badge/Node-22%2B-brightgreen.svg)](https://nodejs.org/)
+[![SafeSkill 94/100](https://img.shields.io/badge/SafeSkill-94%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/huntsdesk-ve-vibe-board)
 
 Your agent, but it remembers. Firestore-backed MCP server that gives Claude Code (and any MCP-speaking agent) **persistent memory across sessions** — tasks, progress, decisions, and handoff notes that survive context compaction and session death.
 
